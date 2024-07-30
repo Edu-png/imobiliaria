@@ -21,32 +21,32 @@ O objetivo deste projeto é coletar e analisar dados de imóveis para identifica
 
 ## 🛠️ Instalação
 Para instalar e executar o projeto localmente, siga os passos abaixo:
-    ```
-    git clone https://github.com/Edu-png/imobiliaria.git
-    cd imobiliaria
-    pip install -r requirements.txt
+
+    ``` 
+        git clone https://github.com/Edu-png/imobiliaria.git
+        cd imobiliaria
+        pip install -r requirements.txt
 
 ## 📌 Uso
 1. Configure os parâmetros necessários no arquivo de configuração (caso necessário).
 2. Execute o script principal para iniciar o processo de análise:
-
     ```
-   python main.py
+       python main.py
     
 3. Os resultados da análise serão armazenados no formato especificado, como CSV ou gráficos, na pasta de saída.
 
 ## 📁 Estrutura do Projeto
     ```
-   imobiliaria/
-   │
-   ├── data/                  # Dados coletados
-   ├── src/                   # Código fonte
-   │   ├── main.py            # Script principal
-   │   ├── analysis.py        # Módulo de análise
-   │   ├── modeling.py        # Módulo de modelagem
-   │   └── config.py          # Configurações
-   ├── requirements.txt       # Dependências
-   └── README.md              # Documentação do projeto
+       imobiliaria/
+       │
+       ├── data/                  # Dados coletados
+       ├── src/                   # Código fonte
+       │   ├── main.py            # Script principal
+       │   ├── analysis.py        # Módulo de análise
+       │   ├── modeling.py        # Módulo de modelagem
+       │   └── config.py          # Configurações
+       ├── requirements.txt       # Dependências
+       └── README.md              # Documentação do projeto
 
 ## 🔄 Pipeline
 1. Coleta de Dados: Utilização de APIs e datasets públicos para coletar informações sobre imóveis, como localização, tamanho, número de quartos, entre outros.
@@ -67,6 +67,8 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
 - O projeto "Imobiliária" busca fornecer uma análise compreensiva do mercado imobiliário, oferecendo insights valiosos para compradores, vendedores e investidores. Com modelos preditivos precisos, é possível tomar decisões informadas sobre o valor de propriedades.
 
 ## 📞 Contato
-- LinkedIn: Eduardo Coqueiro
-- Site: Eduardo Coqueiro
+- **LinkedIn:** [Eduardo Coqueiro](https://www.linkedin.com/in/eduardocoqueiro/)
+- **Site:** [Eduardo Coqueiro](https://dataguy.my.canva.site/eduardo-coqueiro)
+- **Kaggle:** [Eduardo Coqueiro](https://www.kaggle.com/eduardocoqueiro)
+
 
